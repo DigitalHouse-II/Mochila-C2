@@ -1,0 +1,7 @@
+1. Fue desarollado por Chris Wanstrath, P. J. Hyett, Tom Preston-Werner 
+y Scott Chacon, con la funcion de generar colaboración de proyectos 
+entre los diferentes miembros de un equipo 
+2.Actualmente Github hace parte de Microsoft 
+3. Github también permite el manejo de una consola 
+grafica con las mismas funcionalidades que lo permite el uso de la 
+terminal
