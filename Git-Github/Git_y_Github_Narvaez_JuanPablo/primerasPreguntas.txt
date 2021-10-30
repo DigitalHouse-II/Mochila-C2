@@ -1,0 +1,9 @@
+a. El creador del sistema de versionamiento git fue Linus Torlvadz, 
+el creo git pensando en una forma de llevar el versionamiento
+de una manera eficiente, confiable y compatible.
+
+b. El actual propietario de GitHub es Microsoft, esto se dio 
+segun palabras de Satya Nadella para reforzar su compromiso con el codigo libre, 
+la apertura y la innovación.
+
+c. No seria la unica forma, hay entornos graficos que permiten el manejo de git.
