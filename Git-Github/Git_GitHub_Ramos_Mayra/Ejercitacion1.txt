@@ -1,0 +1,6 @@
+Quién inventó el sistema de control de versión y por qué?
+R//Fue creado por Linus Torvalds en 2005 para ser utilizado en el desarrollo del kernel de Linux.
+A quién pertenece actualmente Github y por qué?
+R//Pertenece a Microsoft y lo hizo como una estrategia comercial.
+Hay otra forma que  no sea la terminal para trabajar con Github?
+R//con la aplicación Github Desktop.
