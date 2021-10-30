@@ -1,0 +1,14 @@
+a. Quién inventó el sistema de control de versión Git y por qué?
+Git es un sistema de control de versiones distribuido que fue creado por Linus Torvalds en 2005 para ser utilizado en el desarrollo del kernel de Linux.
+Antes, la comunidad de desarrolladores de Linux utilizaba BitKeeper, un sistema de control de versiones distribuido y comercial, aunque gratuito para proyectos de código abierto. El BitKeeper suponía un gran paso adelante comparado con otros SCMs como CVS y Subversion y, sin duda, inspiró muchos de los conceptos en los que se basa git (especialmente el ser un sistema distribuido).
+Sin embargo, el hecho de ser un software propietario y ciertas desavenencias con su creador, Larry McVoy, llevaron a Linus Torvalds a decantarse por buscar un nuevo sistema de control de versiones. Tras probar muchas de las soluciones existentes y descubrir que ninguna cumplía con sus requisitos, Torvalds decidió diseñar e implementar su propio sistema de control de versiones.
+Git fue diseñado por Torvalds con el proyecto de Linux y el workflow  de sus desarrolladores en mente y, obviamente, estos fueron los primeros en adoptarlo como sistema de control de versiones.
+
+b. A quien pertenece actualmente github y por qué? 
+Desde enero de 2010, GitHub opera bajo el nombre de GitHub, Inc. Anteriormente era conocida como Logical Awesome LLC. A partir del 4 de junio de 2018 Microsoft compró GitHub por la cantidad de 7500 millones de dólares.
+La razón que comentó Satya Nadella, CEO de Microsoft fue: "Desde las corporaciones más grandes hasta las startups más pequeñas, GitHub es el destino para que los desarrolladores aprendan, compartan y trabajen juntos para crear software. También para Microsoft. Somos la organización más activa en GitHub, con más de 2 millones de «commits» o actualizaciones hechas a proyectos.
+Microsoft va a por todas con el código abierto. Hemos emprendido un viaje en relación al código abierto y hoy somos muy activos en el ecosistema, contribuimos con proyectos de código abierto, y algunas de nuestras herramientas y entornos de desarrollo más dinámicos son de código abierto. Cuando se trata de nuestro compromiso con el código abierto, júzganos por las acciones que hemos tomado en el pasado reciente, por nuestras acciones actuales y por las que tomemos en el futuro."
+
+c. Hay otra forma que no sea la terminal para trabajar con github?
+Existen muchas formas de usar Git. Por un lado tenemos las herramientas originales de línea de comandos, y por otro lado tenemos una gran variedad de interfaces de usuario con distintas capacidades.
+La línea de comandos es el único lugar en donde puedes ejecutar todos los comandos de Git - la mayoría de interfaces gráficas de usuario solo implementan una parte de las características de Git por motivos de simplicidad. 
