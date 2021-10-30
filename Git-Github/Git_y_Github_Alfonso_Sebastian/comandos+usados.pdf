@@ -1,10 +1,20 @@
-Git init
+Git init 
+*inicializar seguimiento de carpeta
 git commit -m ""
+*Agregar comentario del lo realizado
 git pull origin ...
+*descargar cambios en repositorio
 git push origin ...
+*enviar cambios a repositorio
 git clone url
+*clonar repositorio
 git add .
+*guardar cambios locales
 git branch ...
+*crear rama
 git checkout ...
+*seleccionar rama
 git status
+*estado
 git log
+*log de commit
