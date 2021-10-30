@@ -1,0 +1,20 @@
+Clonar un repositorio existente
+git clone
+
+Conectar repositorio local con el remoto
+git remote add origin + url del proyecto en github
+
+Subir los archivos del repositorio local al remoto
+git push origin main o el branch en el que se encuentre
+
+Actualizar archivos desde el remoto al local
+git pull origin main o el branch en el que se encuentre
+
+Moverse entre ramas
+git checkout nombre-ramas
+
+Adicionar archivos en seguimiento 
+git add .
+
+Realizar commit 
+git commit -m ""
