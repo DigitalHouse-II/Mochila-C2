@@ -1,0 +1,13 @@
+1. ¿Quién inventó el sistema de control de versión Git y por qué?
+
+Respuesta: Lo invento Linux Torvals en 2005 para ser utilizado en el desarrollo del kernel de Linux.
+
+2. ¿A quién pertenece actualmente Github y por qué?
+
+Respuesta: Pertenece a Microsoft, que pago alrededor de 7.500 millones de dólares.Desde el nombramiento de Satya Nadella como CEO de Microsoft,
+la compañía ha adoptado una estrategia nueva, mucho más abierta al mundo del software libre y a la integración con otras plataformas y servicios.
+
+3. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+
+Respuesta: Desde la misma plataforma web de Githubse pueden realizar cambios o modificaciones al código y 
+realizar los respectivos commit para conservar el historial de los cambios
