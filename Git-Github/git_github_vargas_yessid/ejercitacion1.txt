@@ -1,0 +1,9 @@
+a)¿quien invento el sistema de control de version git y por qué?
+ fue creado por Linus Torvalds en 2005 para ser utilizado en el desarrollo del kernel de Linux.
+ fue creado para solucionar la organizacion de otro proyecto
+
+b)¿a quien pertenece actualmente github  y por que?
+El 4 de junio de 2018, Microsoft anunció la compra de la compañía por un importe de 7500 millones de dólares. Cerrándose la adquisición el 26 de octubre de 2018.
+
+c)¿hay otra forma que no sea la terminal para trabajar con github?
+se puede trabajar directamente con github sin usar la terminal y existen adicional otras herramientas de escritorio
