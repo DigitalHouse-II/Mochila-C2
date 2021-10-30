@@ -1,0 +1,6 @@
+comandos mas  utilizados 
+git add . --> sirve para subir los archivos a al tracked 
+git commit -m "hola"--> sirvwe para commitear los archivos del tracked  
+git push origin master --> sirve para subir los archivos comiteados al repositorio remoto o gitHub
+git pull origin master --> sirve paraactualizar el remoto, bajando la version actual del repositorio remoto al repositorio loval
+git clone URL --> sirve para clonar un rep0ositorio remoto desde el github  hasta el repositorio local
