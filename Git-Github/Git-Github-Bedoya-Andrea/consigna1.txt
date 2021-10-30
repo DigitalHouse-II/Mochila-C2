@@ -1,0 +1,6 @@
+¿Quién inventó el sistema de control de versión Git y por qué?
+R/ Fue creado por Linus Torvalds, porque en el sistema de control de Linux se realizó un cambio de licencia, la cual no "gusto".
+¿A quién pertenece actualmente Github y por qué?
+R/ Nat Friedman, vicepresidente corporativo de Microsoft y fundador de Xamarin
+Hay otra forma que no sea la terminal para trabajar con Github?
+R/ Si, desde la consola.
