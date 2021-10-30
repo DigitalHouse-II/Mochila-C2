@@ -1,0 +1,3 @@
+ A. Fue creado por L. Torvalds, como una versión propia de la herramienta.
+ B. Microsoft.
+ C. A través de programas como: GitHub Desktop, GitKraken u otros similares. 
