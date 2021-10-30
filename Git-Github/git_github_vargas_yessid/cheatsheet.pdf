@@ -1,0 +1,25 @@
+Agregando archivos al repositorio	
+git add	permite agregar los archivos indicados
+	git add . El punto indica que quiro agregar todos los archivos presentes en el repositorio 
+git status	mostrar el status de los archivos y el status del mismo respecto al repositorio, los que estan listos para el commit y los que no
+git commit -m "mensaje"	el mensaje es una descripcion de lo que estoy enviando en esa version con el commit dejando asi una marca en el tiempo y mi usuario
+git log	muestra el historial de cambios o commits en nuestro repositorio
+	git log -- <ruta del archivo> (muestra el historial de un archivo específico)
+	git log --author=usuario (muestra el historial de un usuario en particular)
+git log --oneline	lista de manera resumida
+git checkout codigocommit	saco el codigo del commit con git log que es la configuracion al inicio
+git checkout main	vuelvo a la version mas reciente
+git diff cod_commit1 cod_commit2	puedo identificar entre 2 codigos de commit lo que cambio
+git rm -r directorio	remueve el directorio y los archivos que contiene
+git rm archivo	remover un archivo
+git restore .	recupera los archivos eliminados al ultimo commit
+	
+Enlazando el repositorio remoto	
+git remote add origin rutarepositorriohttps://----	agregar el repositorio remoto a la consola
+git remote -v	
+git remote show origin	permite ver la información de los repositorios remotos
+git remote rename origin nombre_nuevo	renombrar un repositorio
+git remote rm nombre_git	desvincula un repositorio remoto Ej: git remote rm origin
+git push origin main	envia los cmabios del commit al repositorio remoto
+git clone UrlDelRepo	clonamos el repositorio remoto en nuestra pc si no tengo los archivos descargados y es mi primera vez en ese repositorio
+git pull origin main	actualiza los cambios que existen en el repositorio remoto si los archivos ya estna en el equipo
