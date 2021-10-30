@@ -1,0 +1,26 @@
+Comandos más usados
+* $ cd : Con este comando nos podemos mover entre diferentes directorios.
+* $ ls: Este comando lista los ficheros y carpetas.
+* $ mkdir: Crear una carpeta. 
+* $ rmdir: Borrar una carpeta vacía.
+* $ rm: Eliminar un archivo.
+* $ rm -r: Borrar una carpeta con archivos/carpetas.
+* $ rm: Borrar archivos.
+* $ touch: Crear un nuevo archivo.
+* $ ls -R: Muestra las carpetas y los archivos contenidos.
+* $ cd ..: Sube un nivel de carpeta.
+* $ mv: Mover un archivo o una carpeta de lugar. 
+    Ejemplo: $ mv  "cafeconleche.doc" "receta de cocina" -> Primero se coloca el archivo que se desea mover, luego el lugar destino.
+    - También se puede para mover una carpeta a otra -> $ mv "receta de cocina" recetas 
+* “”: Sirven para utilizar términos que están compuestos por más de una palabras.
+    Ejemplo: "Receta de Cocina".txt o "Receta de Cocina.txt"
+
+Comandos para el ciclo de estados de un archivo de Git
+$ git add .: agregar todo el contenido al seguimiento. 
+$ git add: agregar el contenido especifico al seguimiento. 
+$ git rm: Remover archivo del seguimiento. 
+$ git commit -m: Se realiza un commit. 
+$ git init: Para crear un nuevo repositorio
+$ git clone: se usa para crear una copia o clonar un repositorio remoto.
+$ git status: Ver estado actual del repositorio y su contenido.
+$ git remote -v: para comprobar si hay un repositorio ya guardado.  
