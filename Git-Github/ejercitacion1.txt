@@ -5,4 +5,4 @@ lo creo Linus Torvalds, el 19 de octubre de 2007; Su propósito es llevar regist
 El 4 de junio de 2018 Microsoft compró GitHub por la cantidad de 7500 millones de dólares,El 28 de febrero de 2018, GitHub fue víctima del segundo mayor ataque de denegación de servicio (DDoS) de la historia. Llegando a recibir un tráfico de 1.35 terabits por segundo.
 
 ¿hay otra forma que no sea la terminal para trabajar con GitHub?
-GitHub solo se trabaja con la terminal
+git hub trabaja con las distintas terminales, como git bash 
