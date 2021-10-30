@@ -1,0 +1,11 @@
+git init> inicializa el repositorio
+git config --global user.email> llama y guarda el email del personaje hacerdor de cositas
+git config --global user.name> llame el usuario de git hub del personaje hacedor de cositas
+git remote repositotis.com> conecto el local con la terminal
+git branch xxxx> creo una nueva branch
+git checkout xxxn> me paso a la otra branch
+git add .> agrego a la linea temporal los cambios hechos en el local
+git commit -m> dejo un cometario una vez paso las cosas anteriormente a;adidas
+git push origin xxxn> mando todo a la terminal
+git clone> copio el repositorio al local
+git pull origin xxxxn> bajo la branch que ncesito
