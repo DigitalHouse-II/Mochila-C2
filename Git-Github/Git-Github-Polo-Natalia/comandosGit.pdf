@@ -1,0 +1,23 @@
+1 - CREAR UN NUEVO REPOSITORIO
+    git init
+
+2 - AÑADIR UN ARCHIVO
+    git add nombre_archivo
+
+3 - COMMITEAR UN ARCHIVO
+    git commit - m "mensaje del commit"
+
+4 - CREAR UNA RAMA 
+    git branch "Nombre de la rama"
+
+5 - CLONAR UN REPOSITORIO EXISTENTE
+    git clone url del REPOSITORIO
+
+6 - SUBIR ARCHIVOS AL REPOSITORIO REMOTO
+    git push origin rama-actual
+
+7 - DESCARGAR CAMBIOS DEL REPOSITORIO REMOTO
+    git pull origin rama-actual
+
+8 - AGREGAR UN REPOSITORIO REMOTO
+    git remote add origin url del repo 
