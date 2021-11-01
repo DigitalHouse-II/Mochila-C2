@@ -1,0 +1,3 @@
+A ) Linus Torvalds fue el inventor del sistema de control de versiones, al principio, git se pensó como un motor de bajo nivel sobre el cual otros pudieran escribir la interfaz de usuario.
+B) Actualmente Github pertenece a Microsoft
+C)Si, además de la terminal existen otras herramientas gráficas como source tree para trabajar con git y github.
