@@ -1,0 +1,8 @@
+Mochila del Viajero 1
+
+a. El sistema de control de version Git se lo invento Linus Torvalds en 2005 para poder hacerle seguimiento a los contenidos de desarrollo que en ese momento necesitaba Linux Kernel para su crecimiento.
+A partir de ese momento, Git se convirtio en la herramienta preferida para el desarrollo colaborativo gracias a su potencial.
+
+b. Github pertenece a Microsoft desde el 2018 pero opera como una subsidiaria. Lo adquirieron debido a que Microsoft utilizaba este proveedor en muchos de sus proyectos, ademas de poder acceder a toda la base de datos de los usuarios de la plataforma.
+
+c. Si, se puede acceder a traves de varias herramientas como el VS Code.
