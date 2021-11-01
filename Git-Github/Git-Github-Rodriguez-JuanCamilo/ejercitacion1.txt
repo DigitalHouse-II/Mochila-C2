@@ -1,0 +1,7 @@
+a. Git fue creado por Linus Torvalds en 2005 para ser usado en la creación y desarrollo del kernel de Linux.
+    Este permite crear y comparar diferentes versiones del código de un proyecto para permitir que más de una persona pueda trabajar en el mismo.
+
+b. Github es actualmente propiedad de Microsoft, esto es el resultado del acercamiento cada vez mayor de Microsoft hacia el desarrollo open source
+    y la comunidad de desarrollo libre, es una estrategia que busca acercarse a la competencia para ver sus necesidades y ofrecer herramientas.
+
+c. Sí, existen otras formas de trabajar con Github, como las GUI, entre las cuales podemos destacar Github Desktop, Fork y Sourcetree.
