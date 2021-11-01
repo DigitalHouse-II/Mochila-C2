@@ -15,8 +15,8 @@ código fuente.
 
 b. ¿A quién pertenece actualmente Github y por qué?
 
-Github pertenece a Microsoft desde el 2018 pero opera como una subsidiaria. Lo adquirieron debido a que Microsoft utilizaba este proveedor en muchos de sus proyectos, ademas de poder acceder a toda la base de datos de los usuarios de la plataforma.
+Github pertenece a Microsoft desde el 2018 pero opera como una subsidiaria. Lo adquirieron debido a que Microsoft utilizaba este proveedor en muchos de sus proyectos, ademas de poder acceder a toda la base de datos de los usuarios de la plataforma. By José Belalcazar
 
 c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
 
-Existe Github Desktop y git tiene una interfaz grafica. Aún así, no se puede utilizar github sin git
+Existe Github Desktop y git tiene una interfaz grafica. Aún así, no se puede utilizar github sin git. by Maria Camila Cardona
