@@ -1,0 +1,11 @@
+git init :: Para inicializar el repositorio .
+git config --global user.email :: guarda el email del autor. 
+git config --global user.name :: guarda el nombre del autor.
+git remote  ::  Para ver los repositorios remotos
+git branch ____ :: crea una nueva rama
+git checkout ____ :: Pasar a otra rama
+git add . :: Para agregar los cambios al area de stage para el proximo commit
+git commit -m :: Para agregar los cambios al repositorio local
+git push origin ____ :: Para agregar los cambios del repo local al remoto
+git pull origin _____ :: Sincronizo los cambios remotos con los locales
+git clone :: copio el repositorio remoto y los archivos
