@@ -1,0 +1,10 @@
+1. ¿Por qué un lenguaje de programación solo se puede utilizar en unos SO y en otros no?
+R/: En el caso de los lenguajes de programación compilados, solo pueden ejecutarse en equipos que tengan el mismo SO que tiene la máquina donde se compiló.
+
+2. ¿Qué tipo de máquina virtual es VirtualBox?
+R/: Hipervisor de Tipo 2.
+
+3. Si tengo más de una máquina virtual instalaga y una se rompe, ¿esto afecta a las demás?, ¿por qué?
+R/: No, porque cada máquina virtual se aisla de la otra. Es decir que son independientes. 
+
+
