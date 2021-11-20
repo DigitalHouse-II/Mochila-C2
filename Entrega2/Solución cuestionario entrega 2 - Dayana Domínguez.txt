@@ -1,0 +1,18 @@
+
+
+                       ACTIVIDAD ENTREGA MOCHILA 2 - DAYANA DOMINGUEZ
+
+
+1. ¿Por qué un lenguaje de programación solo se puede utilizar en unos SO y en otros no?
+
+    Por qué depende de se arquitectura este problema solo depende de los lenguajes compilados
+    en donde debe tener la misma infraestructura y sistema operativo donde se compilo.
+
+2. ¿Qué tipo de máquina virtual es VirtualBox?
+
+    Un software denominado tambien hipervisor de tipo 2 que necesita de un sistema operativo existente.
+
+3. Si tengo más de una máquina virtual instalaga y una se rompe, ¿esto afecta a las demás?, ¿por qué?
+
+   Si una VM se rompe no afecta a las demas porque son independientes, solo ocurriria en caso de que se
+   rompa la VM contenedora (Ej: virtual box) o el directamente el hardware.
