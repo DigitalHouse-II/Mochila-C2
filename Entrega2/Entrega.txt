@@ -1,0 +1,5 @@
+1. Los lenguajes de programacion no sirven en todos los sistemas operativos por que no cuentan con el compilador adecuado para el sistema operativo en el cual corren. Por lo tanto es necesario que cuenten con un interprete virtual para que puedan ser reconocidos en todos los sistemas operativos
+
+2. Es un tipo de maquina virtual de proceso o de aplicacion
+
+3. No, por que cada maquina virtaul genera su propio ambiente de ejecucion, genera una pantalla diferete, diferenta memoria de almacenamiento de manera independiente, solo toma recursos del equipo local
