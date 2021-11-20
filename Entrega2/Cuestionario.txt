@@ -1,0 +1,14 @@
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?. 
+
+R/ 	Normalmente el problema ocurre, en los lenguajes compilados ya que estos deben tener la infraestructura 
+	y el sistema operativo similar, al que fue compilado inicialmente
+
+¿Qué tipo de máquina virtual es virtualBox?. 
+
+R/ 	Es una maquina virtual hypervisor tipo 2, ya que esta se corre sobre un sistema operativo ya definido 
+
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+
+R/ 	si una VM se rompe no afecta a las demas, estas solo se verian afectadas en el caso en que se rompa el sistema fisico contenedor
+
+
