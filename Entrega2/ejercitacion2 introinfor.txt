@@ -1,0 +1,5 @@
+En el caso de los lenguajes de programación compilados, solo pueden ejecutarse en equipos que se compilo.
+
+VirtualBox es un software para virtualización, tambien conocido como hipervisor de tipo 2, que se utilizar para virtualizar sistemas operativos dentro de nuestro ordenador existente, creando lo que se conoce como máquina virtual. Un hipervisor de tipo 2 se diferencia con los de tipo 1 en que necesita un sistema operativo para funcionar, a diferencia de los de tipo 1 en los que el propio hipervisor funciona sobre el hardware, o máquina host. los hipervisores de tipo 2 en general, se usan cuando no necesitamos destinar la máquina host al completo para realizar tareas de virtualización
+
+No, cada maquina virtual esta aislada de la otra. Cada una funcionando con sus propios recursos asignados.
