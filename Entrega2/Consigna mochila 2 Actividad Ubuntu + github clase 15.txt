@@ -1,0 +1,8 @@
+﻿Con toda la mesa de trabajo debatan sobre las siguientes preguntas y contesten en conjunto: 
+1. ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?. 
+Por la arquitectura donde haya sido compilado; es decir si es compilado en X64 solo podrá ser usado en sistemas operativos con esta arquitectura.
+porque el intérprete no es compatible con el sistema operativo
+2. ¿Qué tipo de máquina virtual es virtualBox?. 
+R// máquina virtual de sistema
+3. Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+Las otras máquinas no se afectan, ya que cada máquina virtual es    independiente.
