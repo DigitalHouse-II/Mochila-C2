@@ -1,0 +1,25 @@
+Nombre: Maria Alejandra Pizarro Sarria
+Entrega 2 – Introducción a la informática
+
+Cuestionario:
+
+1.	¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no? 
+
+2.	¿Qué tipo de máquina virtual es virtualBox? 
+
+3.	Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+
+Solución:
+
+1.	En el caso de los lenguajes de programación compilados, solo pueden ejecutarse en equipos que tengan el mismo Sistema Operativo
+que tiene la máquina donde se compiló; teniendo que estos sistemas operativos manejan un lenguaje diferente con diferentes estructuras,
+y cada uno de estos enfocados en dar solución a diferentes problemas de los usuarios. 
+
+2.	VirtualBox es un software para virtualización, también conocido como hipervisor de tipo 2, que se utilizar para virtualizar sistemas
+operativos dentro de nuestro ordenador existente, creando lo que se conoce como máquina virtual. Un hipervisor de tipo 2 se caracteriza 
+porque necesita un sistema operativo para funcionar, los hipervisores de tipo 2 en general, se usan cuando no necesitamos destinar la
+máquina host al completo para realizar tareas de virtualización.
+
+3.	No, porque cada máquina virtual se aísla de la otra. Es decir que son independientes, ya que tienen asignaciones de recursos
+independientes. 
+
