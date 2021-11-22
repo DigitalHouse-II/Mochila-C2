@@ -1,0 +1,24 @@
+﻿INTRODUCCIÓN A LA INFORMÁTICA
+Output línea de comandos linux
+  
+
+  
+
+
+
+1. ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?. 
+Algunos lenguajes de programación no pueden utilizarse en ciertos sistemas operativos porque los diferentes procesadores tienen diferentes métodos disponibles para realizar llamadas al sistema. Cada sistema operativo debe elegir una convención de llamada al sistema para una arquitectura de procesador determinada. Por ejemplo, para los procesadores x86, Linux solía usar la instrucción de interrupción de software INT 0x80 para ejecutar sus llamadas al sistema, pero (según el comentario a continuación) ahora usa una instrucción SYSENTER, que se introdujo en la arquitectura específicamente para ese propósito.
+Las convenciones de llamadas al sistema no son realmente específicas del lenguaje de programación como tal, pero están necesariamente escritas en las bibliotecas estándar más fundamentales para un lenguaje y sistema operativo dado.
+
+
+2. ¿Qué tipo de máquina virtual es virtualBox?. 
+
+
+VirtualBox es un software para virtualización, también conocido como hipervisor de tipo 2, que se utiliza para virtualizar sistemas operativos dentro de nuestro ordenador existente, creando lo que se conoce como máquina virtual. Un hipervisor de tipo 2 se diferencia con los de tipo 1 en qué necesita un sistema operativo para funcionar, a diferencia de los de tipo 1 en los que el propio hipervisor funciona sobre el hardware, o máquina host.
+ 
+VirtualBox, a diferencia de alternativas como VMWare, es gratuito, de forma que no es necesario pagar una licencia para poder tener acceso a este hipervisor, pero seguiremos pudiendo hacer todo lo que necesitemos a la hora de mantener un entorno virtual para cualquiera que sea el menester que lo requiera.
+ 
+3. Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+
+
+Las VM se encuentran aisladas del resto del sistema, pero puede haber varias VM en una sola pieza de hardware, como un servidor. Al usar un VirtualBox podemos virtualizar sistemas operativos que no podamos o no queramos ejecutar de forma nativa en nuestro equipo. Esto servirá también para trabajar o ejecutar varios sistemas operativos diferentes a la vez en una misma computadora, por lo que, al ser un espacio de ejecución aislado, si una VM se rompe no impactaría a los demás.
