@@ -1,0 +1,31 @@
+Cuestionario
+
+1. ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?
+
+Respuesta:
+
+Hoy en dia los programas open source, generalmente en los sistemas basados en Unix lograron 
+solucionar bastante el problema de la compatibilidad por el hecho de que el sistema que 
+compilara el programa puede antes adaptar el código a su kernel, modificando opciones de 
+compilación. Logrando así obtener un programa genérico completamente adaptado al sistema 
+operativo que lo ha compilado.
+
+
+2. ¿Qué tipo de máquina virtual es virtualBox?
+
+Respuesta:
+
+Virtual Box es un software para virtualización, también conocido como Hypervisor de tipo II que
+se utiliza para virtualizar sistemas operativos dentro de nuestro ordenador existente creando lo
+que se conoce como máquina virtual. Un Hypervisor de tipo II se diferencia con los de tipo I en
+que necesita un sistema operativo para funcionar a diferencia de los tipo I, en que el propio
+Hypervisor funciona sobre el Hardware o máquina Host.
+
+
+3. Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás?¿Por qué?
+
+Respuesta:
+
+Si se daña una máquina virtual no afecta a las otras, dado que son independientes una de la otra.
+En el momento en que se configura cada máquina, se le asignan unos recursos de forma independiente,
+ por lo que si se pierde una de ellas no afecta a las demás.
