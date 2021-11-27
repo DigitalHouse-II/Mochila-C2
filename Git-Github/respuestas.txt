@@ -1,3 +1,0 @@
-Git es un proyecto de código abierto maduro y con un mantenimiento activo que desarrolló originalmente Linus Torvalds, el famoso creador del kernel del sistema operativo Linux, en 2005.
-GitHub continúa siendo la plataforma más importante de colaboración para proyectos Open Source.
-Desde la terminal CDM
