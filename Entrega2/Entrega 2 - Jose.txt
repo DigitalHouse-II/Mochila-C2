@@ -1,0 +1,10 @@
+POR QUÉ UN LENGUAJE DE PROGRAMACIÓN SOLO PUEDE UTILIZARSE EN ALGUNOS SISTEMAS OPERATIVOS Y EN OTROS NO?
+Realmente, los lenguajes de programacion no se ven afectados por el sistema operativo en si. Se ven afectados en la manera en como los sistemas compilen el lenguaje,
+y que tan compatibles o adaptables sean. Por lo tanto, hay algunos lenguajes de programacion que deben adapatarse a cada sistema operativo para funcionar
+correctamente.
+ 
+QUÉ TIPO DE MÁQUINA VIRTUAL ES VIRTUALBOX?
+Es un software de la virtualización tambien conocido como hipervisor de tipo 2. Se utiliza para usar sistemas operativos virtualmente desde nuestro computador.
+
+SI TENGO MÁS DE UNA MÁQUINA VIRTUAL INSTALADA Y UNA SE ROMPE, ¿ESTO AFECTA A LAS DEMÁS?
+No las afecta ya que cada maquina virtual es totalmente independientes.
