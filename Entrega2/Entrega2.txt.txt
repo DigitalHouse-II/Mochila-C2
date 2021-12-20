@@ -9,3 +9,5 @@ hipervisor de tipo 2.
 
 -SI TENGO MÁS DE UNA MÁQUINA VIRTUAL INSTALADA Y UNA SE ROMPE, ¿ESTO AFECTA A LAS DEMÁS?
 R/ No las afecta, por que son independientes.
+
+Hola
